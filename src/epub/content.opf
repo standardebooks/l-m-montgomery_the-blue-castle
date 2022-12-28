@@ -71,7 +71,8 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-m-montgomery_the-blue-castle</meta>
 		<dc:creator id="author">L. M. Montgomery</dc:creator>
 		<meta property="file-as" refines="#author">Montgomery, L. M.</meta>
-		<meta property="se:name.person.full-name" refines="#author">Lucy Maude Montgomery</meta>		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/L._M._Montgomery</meta>
+		<meta property="se:name.person.full-name" refines="#author">Lucy Maude Montgomery</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/L._M._Montgomery</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81018346</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
