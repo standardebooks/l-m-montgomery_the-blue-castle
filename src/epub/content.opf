@@ -57,9 +57,12 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh85149267</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young woman throws off the constraints of her dreary existence when informed she has one year to live.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/l-m-montgomery"&gt;Lucy Maud Montgomery&lt;/a&gt; is known best as an author of youth fiction, and famous for her &lt;a href="https://standardebooks.org/collections/anne-of-green-gables"&gt;Anne of Green Gables&lt;/a&gt; series. But a few titles in her substantial output were intended for adult readers, and of these few, &lt;i&gt;The Blue Castle&lt;/i&gt; is the best known.&lt;/p&gt;
+			&lt;p&gt;In Valancy Stirling’s rural Ontario town, marriage is thought to be a young woman’s vital accomplishment. Yet Valancy, now in her late 20s, has never had a flicker of interest from any suitor. Add to this the oppressive home life she endures with her mother, and Valancy’s misery is complete. In order to find some relief, she builds a fantasy world in her imagination—her “Blue Castle”—full of love and beauty. Even this, however, fails to support her when her chest pains prove to be the sign of a terminal condition.&lt;/p&gt;
+			&lt;p&gt;This traumatic discovery combines with Valancy’s inspirational reading to prompt her to take back her life—much to her relatives’ consternation. Undeterred, Valancy finds new worth and freedom in relationships she could never have imagined before, which bring their own surprising twists and turns.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Blue Castle&lt;/i&gt; found new notoriety when suggestions were made that Colleen McCullough had plagiarized from it in her 1987 novel, &lt;i&gt;The Ladies of Missalonghi&lt;/i&gt;. It has also been adapted multiple times for the stage, and has found a readership in Polish translation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/67979</dc:source>
@@ -75,10 +78,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/L._M._Montgomery</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81018346</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Max Brödel</dc:contributor>
+		<meta property="file-as" refines="#artist">Brödel, Max</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Max_Br%C3%B6del</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85055657</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Laura Natal Rodrigues</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Rodrigues, Laura Natal</meta>
