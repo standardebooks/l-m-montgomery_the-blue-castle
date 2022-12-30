@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/l-m-montgomery/the-blue-castle</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-12-30T21:03:08Z</dc:date>
+		<meta property="dcterms:modified">2022-12-30T21:03:08Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,13 +28,6 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Blue Castle</dc:title>
 		<meta property="file-as" refines="#title">Blue Castle, The</meta>
-		<meta property="title-type" refines="#title">main</meta>
-		<dc:title id="subtitle">A Novel</dc:title>
-		<meta property="file-as" refines="#subtitle">Novel, A</meta>
-		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">The Blue Castle: A Novel</dc:title>
-		<meta property="file-as" refines="#fulltitle">The Blue Castle</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Self-actualization (Psychology) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Single women -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Choice -- Fiction</dc:subject>
@@ -57,18 +50,17 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh85149267</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A young woman throws off the constraints of her dreary existence when informed she has one year to live.</dc:description>
+		<dc:description id="description">A young woman throws off the constraints of her dreary existence when she learns she has one year left to live.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/l-m-montgomery"&gt;Lucy Maud Montgomery&lt;/a&gt; is known best as an author of youth fiction, and famous for her &lt;a href="https://standardebooks.org/collections/anne-of-green-gables"&gt;Anne of Green Gables&lt;/a&gt; series. But a few titles in her substantial output were intended for adult readers, and of these few, &lt;i&gt;The Blue Castle&lt;/i&gt; is the best known.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/l-m-montgomery"&gt;L. M. Montgomery&lt;/a&gt; is perhaps best known as an author of youth fiction, especially her &lt;a href="https://standardebooks.org/collections/anne-of-green-gables"&gt;Anne of Green Gables&lt;/a&gt; series. But of her novels intended for adult readers, &lt;i&gt;The Blue Castle&lt;/i&gt; is the most famous.&lt;/p&gt;
 			&lt;p&gt;In Valancy Stirling’s rural Ontario town, marriage is thought to be a young woman’s vital accomplishment. Yet Valancy, now in her late 20s, has never had a flicker of interest from any suitor. Add to this the oppressive home life she endures with her mother, and Valancy’s misery is complete. In order to find some relief, she builds a fantasy world in her imagination—her “Blue Castle”—full of love and beauty. Even this, however, fails to support her when her chest pains prove to be the sign of a terminal condition.&lt;/p&gt;
 			&lt;p&gt;This traumatic discovery combines with Valancy’s inspirational reading to prompt her to take back her life—much to her relatives’ consternation. Undeterred, Valancy finds new worth and freedom in relationships she could never have imagined before, which bring their own surprising twists and turns.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Blue Castle&lt;/i&gt; found new notoriety when suggestions were made that Colleen McCullough had plagiarized from it in her 1987 novel, &lt;i&gt;The Ladies of Missalonghi&lt;/i&gt;. It has also been adapted multiple times for the stage, and has found a readership in Polish translation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/67979</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102009767</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">70810</meta>
+		<meta property="se:reading-ease.flesch">76.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Blue_Castle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-m-montgomery_the-blue-castle</meta>
 		<dc:creator id="author">L. M. Montgomery</dc:creator>
@@ -94,6 +86,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
