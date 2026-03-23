@@ -6,10 +6,4 @@
 			<reason>False positive; this is run-on dialog.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-14.xhtml">
-		<ignore code="y-037">
-			<line>20</line>
-			<reason>False positive; this is not standard dialog. It is a summary of what people were saying with a few choice quotes interspersed.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
