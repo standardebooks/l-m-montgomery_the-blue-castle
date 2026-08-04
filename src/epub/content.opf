@@ -52,7 +52,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh85149267</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young woman throws off the constraints of her dreary existence when she learns she has one year left to live.</dc:abstract>
+		<meta property="schema:abstract">A young woman throws off the constraints of her dreary existence when she learns she has one year left to live.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/l-m-montgomery"&gt;L. M. Montgomery&lt;/a&gt; is perhaps best known as an author of youth fiction, especially her &lt;a href="https://standardebooks.org/collections/anne-of-green-gables"&gt;Anne of Green Gables&lt;/a&gt; series. But of her novels intended for adult readers, &lt;i&gt;The Blue Castle&lt;/i&gt; is the most famous.&lt;/p&gt;
 			&lt;p&gt;In Valancy Stirling’s rural Ontario town, marriage is thought to be a young woman’s vital accomplishment. Yet Valancy, now in her late 20s, has never had a flicker of interest from any suitor. Add to this the oppressive home life she endures with her mother, and Valancy’s misery is complete. In order to find some relief, she builds a fantasy world in her imagination—her “Blue Castle”—full of love and beauty. Even this, however, fails to support her when her chest pains prove to be the sign of a terminal condition.&lt;/p&gt;
