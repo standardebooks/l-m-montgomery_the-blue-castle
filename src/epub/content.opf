@@ -69,8 +69,8 @@
 		<link href="https://github.com/standardebooks/l-m-montgomery_the-blue-castle" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">L. M. Montgomery</dc:creator>
 		<meta property="file-as" refines="#author">Montgomery, L. M.</meta>
-		<meta property="schema:alternateName" refines="#author">Lucy Maude Montgomery</meta>
-		<link href="https://en.wikipedia.org/wiki/L._M._Montgomery" refines="#author" rel="schema:sameAs"/>
+		<meta property="schema:alternateName" refines="#author">Lucy Maud Montgomery</meta>
+		<link href="https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81018346.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Max Brödel</dc:contributor>
@@ -79,11 +79,12 @@
 		<link href="https://id.loc.gov/authorities/names/n85055657.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Laura Natal Rodrigues</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Rodrigues, Laura Natal</meta>
+		<meta property="file-as" refines="#transcriber-1">Natal Rodrigues, Laura</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">David Reimer</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Reimer, David</meta>
 		<link href="https://github.com/dajare" refines="#producer-1" rel="schema:url"/>
+		<link href="https://id.loc.gov/authorities/names/n92075987.html" refines="#producer-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
